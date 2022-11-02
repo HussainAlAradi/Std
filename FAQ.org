@@ -1,0 +1,63 @@
+* Hungry Project Frequently Asked Question (FAQ)
+
+** I cannot sign in. What do I need to do? 
+
+   + Please ensure that you are using your registered email address and correct password. Note that the password is case sensitive. 
+   + If you are registered for the first time, you will need to activate your account first. An email will be sent to the email your registered with contains a (link/code) you will need to (click/enter) in order to activate your account. If you have not received an email, please check your spam or junk mail folders.   
+
+** What are the functionalities supported? 
+
+   + The Customer can search for the meal he/she wish. 
+   + Display related data to the meal like:Image,name,Type(Regaluer/Spicy),price,is it only meal or with sandwitch. 
+ 
+** How can I search for a book? 
+
+   + You can search a meal from “search bar” in left of the webpage by typing the name of the meal/sanwich you wish.  
+
+** Can I see detailed information about a Sandwich/meal that I did not purchase yet? 
+
+   + You can find all information related to that meal/sanwitch by clicking on it after you search for it. 
+
+
+** How can I buy a book? 
+
+   + You can buy a meal/sandwich by clicking on the image  from the page.
+
+** How can I find the data related to an offer ? 
+
+   + by going dawn you will see a text called"Explore Our NUTRITION FACTS" and you will find a red button called"Learn more"
+
+** How can I pay for my order? 
+
+   + You can pay for your order only in cash . 
+
+** What is the hardware required to use Hungry ? 
+
+   + Minimum: server with 1 GB of ram and 2.4 GHz dual-core CPU
+   +  Recommended: server rack with 64 GB of ram and 3+ GHz with 4+ cores  
+
+** How to be a contributor? 
+
+   + Since our community is friendly and inclusive any patch or suggestion is welcomed and to be a contributor you can also engage in the community discussions.
+   
+** How can I add my suggestions to improve the project as a user?
+
+   + You can contact us via GitHub or email.
+   
+** I have found a bug as a user; how can I report it?
+
+   + You can do so by contacting the contributors, Hussain Al Aradi, as he is the founder of the Hungry project. Also, you can use the bug tracker in GitHub and start an issue describing the details.
+   
+** I liked the idea of the project, how can I donate to help the contributors?
+
+   + We will post a page within a couple of a months on how to donate.
+   
+** How can I edit Sanwitch/Meals Details ?
+	
+    + As a digital Resturent employee, you should be able to edit any
+	  information about Sandwitches/Meals.
+
+** How can I add Sanwitch/Meals to the system?
+	
+    + As a digital Resturent employee, you should be able to edit add
+	  information about a new Sandwitches/Meals.
