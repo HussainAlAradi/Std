@@ -17,6 +17,7 @@ Mission statement: The ability to use a single system that combines all restaura
 The project name is “Hungry” which stands for a hungry person that is willing to eat. The name is unique, short, and easy to memorize, unlike other systems that consist of many words that users may find confusing and hard to remember. We think it can be recognized over time.
 
 Features:
+
 •	Allow users to log in.
 
 •	View the menu where all meals are listed.
@@ -45,7 +46,7 @@ Requirements:
 
 •	The system will be constructed with a highly secure design and must be able to accommodate the latest technologies.
 
-
+For more about Features and Requirements(https://github.com/HussainAlAradi/Std/blob/main/features%20and%20requirements)
 
 Maintaining FAQS
 
