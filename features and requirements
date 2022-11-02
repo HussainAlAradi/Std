@@ -1,0 +1,17 @@
+Features:
+•	Allow users to log in.
+•	View the menu where all meals are listed.
+•	Ordering food and tracking orders.
+•	Generate reports and view information about meals.
+•	Control and update users’ information such as passwords and addresses.
+•	Search for a specific food or meal by browsing the categories or by entering its name in the search bar.
+•	Pay online using a third-party payment provider for fines.
+•	Receive receipt regarding payments.
+•	The system must monitor all user’s movements to protect users’ private information.
+•	The system must perform operations within a few seconds.
+•	The user can use the system easily and efficiently. It doesn’t take time to get to know it.
+Requirements:
+•	The system will be developed using HTML, CSS, JavaScript, and PHP. 
+•	The system will be constructed with a highly secure design and must be able to accommodate the latest technologies.
+
+
