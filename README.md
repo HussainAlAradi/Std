@@ -2,10 +2,11 @@ hungry
 “Hungry” is a free open-source software system that has GPLv3 public license.
 
 There are a lot of similar projects that we can refer to but because we are developing a restaurant open-source project that is free and public we will start from scratch. Thus, we will just be taking ideas. 
-1.	Welcome to KFC Bahrain – Order your meal online now!
+
+1.	https://bahrain.kfc.me/
 This system has a lot of functions that will be implemented in our project, such as sign-in, sign-out, adding a meal, removing a meal, etc.
 
-2.	McDelivery™ Bahrain
+2.	https://www.mcdelivery.com.bh/
 The following website offers a function that our system will have which is ordering food. There is no need to call the restaurant to order food, as it will be included in the project.
 
 The project was created for the ITCS333 course, and we decided that it would be better if we develop it into a free public version. The goal of the system is to save users’ time and effort instead of calling the restaurant every time. Also, the system will increase order processing performance due to its comprehensive cost-effective system. We provided documentation that lists the details they would like to look at to make a clear decision on whether to join the development team or not. Moreover, the project has followed the Attribute Driven Design (ADD) which is a methodology to create software architectures that consider the quality attributes of the software. This method will always facilitate the development stages.
