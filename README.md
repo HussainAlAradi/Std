@@ -87,6 +87,57 @@ Address of the Communication channels:
 
 *HussainAlAradi.ha@Gmail.com // Google Gmail
 
+
+Developer Guidelines
+
+*Code Samples:
+
+As much as possible, code should be copy-paste runnable, which indicates that a reader should be able to run it by simply pasting a sample of it into a blank unit test.
+
+code should be as simple as possible.
+ 
+*Code Format:
+
+Each line should have a single code command.
+
+Each block of code should have a two-line margin from other code blocks.
+
+Note: no need to do formatting manually. You can use the predefined formatter.
+ 
+*Code-other notes:
+The variable names should be meaningful and gives idea about the usage of the variable.
+
+ 
+*Developers’ Interaction:
+Developers should be communicating with each other through email or MS Teams.
+ 
+*Bug Report:
+Points to consider:
+
+- Title: Keep it short and specific. Clearly summarize what the bug is.
+
+- Summary: If title is not enough, include where, when and how the bug occurred.
+
+- Visual proof: Screenshot or video helps the developer understand the problem faster.
+
+- Expected vs actual result: Keep it short and specific.
+
+- Steps to reproduce: Include the steps that created the bug.
+
+- Environment: Include critical info like browser, operating system, screen size and zoom level.
+
+- Console log: Identify the root of the problem.
+
+- Source URL: To help developer spot the issue faster.
+
+- Severity / priority: Impact level on your product / how fast it should be investigated.
+
+- Advanced info: reporter name, assignee, due date, customer /user conversation.
+
+Note: Do not make it harder to spot the issue by adding unhelpful information. Avoid duplicates.
+
+
+
 Maintaining FAQS
 
 here you will find answers to most of the questions, and please don't feel shy or hesitate to ask(https://github.com/HussainAlAradi/Std/blob/main/FAQ.org)
