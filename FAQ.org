@@ -10,7 +10,7 @@
    + The Customer can search for the meal he/she wish. 
    + Display related data to the meal like:Image,name,Type(Regaluer/Spicy),price,is it only meal or with sandwitch. 
  
-** How can I search for a book? 
+** How can I search for a Sandwitch/Meal? 
 
    + You can search a meal from “search bar” in left of the webpage by typing the name of the meal/sanwich you wish.  
 
@@ -19,7 +19,7 @@
    + You can find all information related to that meal/sanwitch by clicking on it after you search for it. 
 
 
-** How can I buy a book? 
+** How can I buy a Sandwitch/Meal? 
 
    + You can buy a meal/sandwich by clicking on the image  from the page.
 
