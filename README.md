@@ -136,7 +136,8 @@ Points to consider:
 
 Note: Do not make it harder to spot the issue by adding unhelpful information. Avoid duplicates.
 
-
+Developer Documentation
+for now there is none.
 
 Maintaining FAQS
 
