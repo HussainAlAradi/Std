@@ -14,7 +14,7 @@
 
    + You can search a meal from “search bar” in left of the webpage by typing the name of the meal/sanwich you wish.  
 
-** Can I see detailed information about a Sandwich/meal that I did not purchase yet? 
+** Can I view detailed information about a Sandwich/meal that I did not purchase yet? 
 
    + You can find all information related to that meal/sanwitch by clicking on it after you search for it. 
 
