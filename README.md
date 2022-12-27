@@ -144,7 +144,7 @@ Maintaining FAQS
 here you will find answers to most of the questions, and please don't feel shy or hesitate to ask(https://github.com/HussainAlAradi/Std/blob/main/FAQ.org)
 
 Pictures:
-![Example3](https://user-images.githubusercontent.com/114672295/199633542-86a68215-58b8-4865-a296-e0895d293b4e.png)
+
 ![Example4](https://user-images.githubusercontent.com/114672295/199633545-bb1eae00-4b22-49cc-85db-d24c0d26ce44.png)
 ![Examlpe1](https://user-images.githubusercontent.com/114672295/199633546-2670ff96-081d-4c36-ade9-7fddf225e706.png)
 ![Example2](https://user-images.githubusercontent.com/114672295/199633555-518ff500-8435-4932-9dbc-e60041af4e7a.png)
